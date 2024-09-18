@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning GitHub
 - 💞️ I’m looking to collaborate on DEV
 - 📫 How to reach me dietrich.mannweiler@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: DER
+- ⚡ Fun fact: I am single.
 
 <!---
 dietmann666/dietmann666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
